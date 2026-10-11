@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://LilyFerrari47.github.io/telegram-bot-probiv-2026/sitemap.xml
